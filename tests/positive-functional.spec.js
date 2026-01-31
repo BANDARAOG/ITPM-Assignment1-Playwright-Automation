@@ -8,7 +8,9 @@ const testCases = [
     { 
         id: 'Pos_Fun_0002', 
         input: 'mama adha gedhara inne.', 
-        expected: 'මම අද ගෙදර ඉන්නෙ'
+        expected: 'මම අද ගෙදර ඉන්නේ.'
+
+
     },
     { 
         id: 'Pos_Fun_0003', 
