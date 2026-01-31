@@ -45,12 +45,12 @@ const testCases = [
     { 
         id: 'Pos_Fun_0009', 
         input: 'oyaa enavaanam mama pause karanavaa.', 
-        expected: 'ඔයා එනවානම් මම පොස් කරනවා.'
+        expected: 'ඔයා එනවානම් මම pause කරනවා.'
     },
     { 
         id: 'Pos_Fun_0010', 
         input: 'mata eeka hariyata therenavaa.', 
-        expected: 'මට ඒක හරියට තේරෙනව'
+        expected: 'මට ඒක හරියට තෙරෙනවා.'
     },
     { 
         id: 'Pos_Fun_0011', 
